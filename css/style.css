@@ -6,7 +6,7 @@ body {
   font-family: sans-serif;
   height: 100%;
   width: 100%;
-  background-color: #62d8ff;
+  background-color: #00AA00;
 }
 
 .container {
@@ -24,11 +24,6 @@ body {
   background-color: #fff;
   padding: 20px 20px 30px 20px;
   border-radius: 6px;
-}
-
-.btn-success {
-  background-color: #62d8ff !important;
-  border-color: #62d8ff !important;
 }
 
 textarea {
